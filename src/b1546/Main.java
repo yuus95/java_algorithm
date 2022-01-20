@@ -11,12 +11,10 @@ public class Main {
         int len = sc.nextInt();
         double[] scoreBox = new double[len];
         double maxNum = -1;
-        int idx = 0;
         for(int i = 0 ; i<len; i++){
             scoreBox[i] = sc.nextInt();
             if(maxNum < scoreBox[i]){
                 maxNum = scoreBox[i];
-                idx = i; 
             }
         }
         double sum = 0;
