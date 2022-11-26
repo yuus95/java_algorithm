@@ -25,6 +25,7 @@ public class Main {
         });
 
         AtomicInteger cnt = new AtomicInteger();
+
         result.forEach((temp, a) -> {
             if (a % 2 == 1) {
                 cnt.addAndGet(1);
