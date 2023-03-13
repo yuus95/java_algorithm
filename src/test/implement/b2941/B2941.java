@@ -4,7 +4,6 @@ public class B2941 {
 
     public int solve(String input) {
         int result = 0;
-        boolean isJ = false;
         int count = 0;
         char[] chars = input.toCharArray();
 
