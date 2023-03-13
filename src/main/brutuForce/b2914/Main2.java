@@ -1,4 +1,4 @@
-package main.b2914;
+package main.brutuForce.b2914;
 
 import java.util.Scanner;
 

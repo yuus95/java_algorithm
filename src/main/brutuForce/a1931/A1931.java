@@ -1,4 +1,4 @@
-package main.a1931;
+package main.brutuForce.a1931;
 
 import java.util.ArrayList;
 import java.util.Collections;

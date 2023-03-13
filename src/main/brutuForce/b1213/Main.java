@@ -1,4 +1,4 @@
-package main.b1213;
+package main.brutuForce.b1213;
 
 import java.util.Scanner;
 

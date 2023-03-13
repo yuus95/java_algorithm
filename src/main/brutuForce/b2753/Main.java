@@ -1,4 +1,4 @@
-package main.b2753;
+package main.brutuForce.b2753;
 
 import java.util.Scanner;
 

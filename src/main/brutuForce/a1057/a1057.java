@@ -1,4 +1,4 @@
-package main.a1057;
+package main.brutuForce.a1057;
 
 
 import java.util.Scanner;

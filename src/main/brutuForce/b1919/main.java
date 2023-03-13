@@ -1,4 +1,4 @@
-package main.b1919;
+package main.brutuForce.b1919;
 
 import java.io.IOException;
 import java.util.Scanner;

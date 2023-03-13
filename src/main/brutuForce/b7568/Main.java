@@ -1,4 +1,4 @@
-package main.b7568;
+package main.brutuForce.b7568;
 
 import java.io.BufferedReader;
 import java.io.IOException;

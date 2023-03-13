@@ -1,4 +1,4 @@
-package main.b1546;
+package main.brutuForce.b1546;
 
 import java.util.Scanner;
 
