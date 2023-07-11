@@ -21,6 +21,7 @@ class MainTest {
     @Test
     void two() {
         assertThat(1 + 2 + "3").isEqualTo("33");
+        assertThat(1 + 2 * 2 + "3").isEqualTo("53");
     }
 
     @Test
