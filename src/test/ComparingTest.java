@@ -49,7 +49,7 @@ public class ComparingTest {
                 .sorted(Comparator.comparing((int[] a) -> a[1]).reversed())
                 .toList();
 
-        System.out.println();
+        Assertions.assertEquals(list.get(0), temp[2]);
     }
 
     @DisplayName("")
